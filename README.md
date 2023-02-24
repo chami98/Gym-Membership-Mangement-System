@@ -60,4 +60,17 @@ Contributions are always welcome! If you would like to contribute to the Weather
 
 Thank you for checking out the Gym Membership Management System! If you have any questions or feedback, please feel free to reach out. Happy coding! 🎉
 
+---
+
+## Screenshots
+
+![Login](https://user-images.githubusercontent.com/68820649/221246486-aae44522-b17a-48db-b6e0-673ce4aa60b1.png)
+
+![Home](https://user-images.githubusercontent.com/68820649/221246469-f6e1c0b0-15b5-41d3-9215-3f1b713875f3.png)
+
+![Add Member](https://user-images.githubusercontent.com/68820649/221246494-ff8d6fe5-518a-4ee1-9200-8fd32786d7a2.png)
+
+![Equipment](https://user-images.githubusercontent.com/68820649/221246504-1aeed31c-ce5f-4b0f-8deb-5bb3be3deeae.png)
+
+
 
