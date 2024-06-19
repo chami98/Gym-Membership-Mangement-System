@@ -17,7 +17,7 @@ The Gym Membership Management System is a Windows Forms application developed us
 - Tracks spending over time and displays spending habits graphically 📊
 - Provides users with a summary of their monthly spending 🗓️
 - Allows users to set budgets and alerts when they exceed their budget 💸
-- Can be used to manage multiple accounts or budgets 💼
+- Can be used to manage multiple accounts or budgets 
 
 - User-friendly interface for easy navigation.
 - Secure login system for gym owners or administrators.
